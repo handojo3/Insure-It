@@ -2,19 +2,19 @@
 
 # Insure-it
 
-Insure-it is an engaging 2D Retro Arcade Game powered by the GDevelop framework. It features two levels focused on crop and life insurance for a farmer.
+Insure-it is an engaging 2D Retro Arcade Game powered by the GDevelop framework. It features three levels focused on crop, medical and car insurance for a farmer.
 
 ## Installation
 
 Insure-it can be played in multiple ways:
-1. Web link and desktop executable file (.exe) format.
-2. JSON format and HTML5.
+1. Web link and desktop executable file (.exe) format
+2. JSON format and HTML5
 
 ## Controls
 
-- Right-key: Move the player right.
-- Left-key: Move the player left.
-- Space-bar: Jump.
+- Right-key: Move the player right
+- Left-key: Move the player left
+- Space-bar: Jump
 - E-key: Throw a weapon (COUNTRY Financial Policy) to overcome obstacles and to talk to the COUNTRY agent
 - Escape-key: Pauses and returns the player to the menu
 
@@ -39,13 +39,20 @@ Insure-it can be played in multiple ways:
 
 ### Level 1 - Crop Insurance
 
+![image](https://github.com/handojo3/Insure-It/assets/92761906/d1147577-36b8-44c6-b4d3-a19ef259afe5)
+
+
 A farmer is tasked to transport crops, but there are fire obstacles that the farmer needs to overcome to advance to the next level. In order to extinguish the fire, the farmer must not only meet with a COUNTRY Financial agent to purchase a crop insurance policy, but he must also collect at least 12 crop items. 
 
 ### Level 2 - Medical Insurance
 
-Another character is exploring the city. However, the city is filled with people infected with a contagious virus, and the character needs to avoid these sick people. In the case of the character contracting this virus, the character must not only meet with a COUNTRY Financial agent to purchase a medical insurance policy, but the character must also collect at least 12 pill items.
+![image](https://github.com/handojo3/Insure-It/assets/92761906/9412e15c-688b-427f-9aca-e4cd0a868b79)
+
+Another character is exploring the city. However, the city is filled with people infected with a contagious virus, and the character needs to avoid these sick people. In the case of the character contracting this virus, the character must not only meet with a COUNTRY Financial agent to purchase a medical insurance policy, but the character must also collect at least 11 pill items.
 
 ### Level 3 - Car Insurance
+
+![image](https://github.com/handojo3/Insure-It/assets/92761906/39f192ca-89d2-470a-872a-e69dedb1ed23)
 
 The character is walking on the streets while surrounded by reckless drivers, and he needs to avoid them. In the case of a driver carelessly crashing into the character, the character must not only meet with a COUNTRY Financial agent to purchase a car insurance policy, but the character must also collect at least 12 wrenches. 
 
