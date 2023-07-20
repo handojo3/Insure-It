@@ -26,7 +26,7 @@ Insure-it can be played in multiple ways:
 - Heart: Each player starts with 5 lives. Touching an obstacle reduces a life. Reaching 0 lives returns the player to the last checkpoint.
 - Corn: Collect >= 12 corns to advance to the next level
 - Fire: Avoid fire obstacles in the first level
-- Pill: Collect >= 12 pills to advance to the second level
+- Pill: Collect >= 11 pills to advance to the second level
 - Virus: Avoid virus-spitting characters in the second level
 - Wrench: Collect >= 12 wrenches to end the game
 - Cars: Obstacles in the third level
