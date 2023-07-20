@@ -68,7 +68,7 @@ The character is walking on the streets while surrounded by reckless drivers, an
 
 - https://www.remove.bg/: Creates transparent background for input images
 - https://pngtree.com/: Graphic Resources for Free Download
-- https://www.pngwing.com/: - Transparent background png images for designers
+- https://www.pngwing.com/: Transparent background png images for designers
 - GDevelop: Framwork used to create the game
 
 ### Acknowledgements
